@@ -18,7 +18,7 @@ class Sharko:
     GREETING_SENTENCES_PATH = "assets/sentences/greeting/"
     REMOVAL_SENTENCES_PATH = "assets/sentences/removal/"
     END_TALKING_SOUND = "assets/sounds/end_talking.mp3"
-    START_TALKING_SOUND = "assets/sound/start_talking.mp3"
+    START_TALKING_SOUND = "assets/sounds/start_talking.mp3"
     GREETING_SOUND = "assets/sounds/greeting.mp3"
 
 
