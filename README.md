@@ -7,7 +7,7 @@ Sharko (also named as Destroyman III) from Deepwoken is now not only in the game
 
 ## How to install?
 
-Just run __sharko_installer__ file and follow instructions.
+Download archive __sharko-pet.zip__ and extract files.
 Or you can use other paths, you have all the source files.
 
 ![sharko_idle](/readme_img/4.png)
@@ -20,6 +20,6 @@ Mousewheel.
 
 ![sharko_menu](/readme_img/2.png)
 
-## Images
+## Showcase
 
-![sharko_greeting](/readme_img/1.png)
+![sharko_showcase](/readme_img/5.gif)
