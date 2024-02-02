@@ -20,8 +20,6 @@ Mousewheel.
 
 ![sharko_menu](/readme_img/2.png)
 
-## blah blah blah
-
-Despite being mistakenly flagged as a virus by the Microsoft Defender antivirus program, my code is non-malicious and poses no threat, carrying out its functions without any malicious intent. Then think by yourself.
+## Images
 
 ![sharko_greeting](/readme_img/1.png)
