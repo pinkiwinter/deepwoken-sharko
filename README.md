@@ -1,7 +1,7 @@
 
 ## Sharko.
 
-<img src="/img/1.png" width="400">
+<img src="/img/1.png" width="300">
 
 ### Features:
 - **Animation**: Sharko can animate through different states such as idle, talking, and greeting.
