@@ -20,10 +20,10 @@
     - [Download ZIP](https://github.com/pinkiwinter/sharko-pet/blob/main/sharko.zip)
 
 
-<img src="/img/3.png" width="400">
+<img src="/img/2.png" width="400">
 
 Feel free to explore and modify Sharko's behavior by tweaking the code and assets in the repository!
 
-<img src="/img/5.gif" width="400">
+<img src="/img/1.png" width="400">
 
 *Note: Ensure that image and sound files are correctly referenced in the code for proper functionality.*
