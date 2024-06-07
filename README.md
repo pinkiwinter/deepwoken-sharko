@@ -1,6 +1,8 @@
 
 ## Sharko.
 
+<img src="/img/1.png" width="400">
+
 ### Features:
 - **Animation**: Sharko can animate through different states such as idle, talking, and greeting.
 - **Interaction**: Users can interact with Sharko by clicking on the GUI interface.
@@ -24,6 +26,5 @@
 
 Feel free to explore and modify Sharko's behavior by tweaking the code and assets in the repository!
 
-<img src="/img/1.png" width="400">
 
 *Note: Ensure that image and sound files are correctly referenced in the code for proper functionality.*
