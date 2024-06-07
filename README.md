@@ -1,27 +1,28 @@
-# Destroyman III
 
-Sharko (also named as Destroyman III) from Deepwoken is now not only in the game, but also on your computer.
+## Sharko.
 
-![sharko](/readme_img/3.png)
-***
+### Features:
+- **Animation**: Sharko can animate through different states such as idle, talking, and greeting.
+- **Interaction**: Users can interact with Sharko by clicking on the GUI interface.
+- **Sound Effects**: The application incorporates sound effects for various actions.
+- **Customization**: Sharko's appearance and behavior can be customized by modifying image and sentence files.
 
-## How to install?
+<img src="/img/5.gif" width="400">
 
-Download archive __sharko.zip__ and extract files. 
-Or you can use other paths, you have all the source files.
+### Usage:
+1. **Python Installation**: If you have Python installed, follow these steps:
+    - Clone the repository to your local machine.
+    - Ensure you have Python installed along with the required libraries (Tkinter, Pygame).
+    - Run the main Python script to launch the Sharko application.
+    - Interact with Sharko by clicking on the interface and observing its various animations and sounds.
 
-DONT FORGET TO CREATE SHORTCUT, OTHERWISE PROGRAM WILL NOT WORK! (shortcut in .zip file)
+2. **No Python Installation?**: If you don't have Python installed, you can download the repository as a ZIP file:
+    - [Download ZIP](https://github.com/pinkiwinter/sharko-pet/blob/main/sharko.zip)
 
-![sharko_idle](/readme_img/4.png)
-***
+<img src="/img/3.png" width="400">
 
-## Controls
-Mousewheel.
-+ Hold to move.
-+ Double click to show menu.
+Feel free to explore and modify Sharko's behavior by tweaking the code and assets in the repository!
 
-![sharko_menu](/readme_img/2.png)
+<img src="/img/5.png" width="400">
 
-## Showcase
-
-![sharko_showcase](/readme_img/5.gif)
+*Note: Ensure that image and sound files are correctly referenced in the code for proper functionality.*
