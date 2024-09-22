@@ -4,10 +4,13 @@
 <img src="/img/1.png" width="300">
 
 ### Features:
+- **Movement**: You can move Sharko around the screen by clicking and holding the mouse wheel (middle button) while dragging.
+- **Menu Access**: To open the menu, double-click the mouse wheel (middle button).
 - **Animation**: Sharko can animate through different states such as idle, talking, and greeting.
 - **Interaction**: Users can interact with Sharko by clicking on the GUI interface.
 - **Sound Effects**: The application incorporates sound effects for various actions.
 - **Customization**: Sharko's appearance and behavior can be customized by modifying image and sentence files.
+
 
 <img src="/img/5.gif" width="400">
 
